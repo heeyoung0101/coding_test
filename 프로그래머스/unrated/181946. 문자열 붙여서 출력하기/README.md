@@ -1,4 +1,4 @@
-# [unrated] 문자열 붙여서 출력하기 - 181946 
+# [Level 0] 문자열 붙여서 출력하기 - 181946 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946) 
 
