@@ -1,4 +1,4 @@
-# [unrated] 덧셈식 출력하기 - 181947 
+# [Level 0] 덧셈식 출력하기 - 181947 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947) 
 
