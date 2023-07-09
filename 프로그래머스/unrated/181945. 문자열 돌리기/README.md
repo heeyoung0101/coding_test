@@ -1,4 +1,4 @@
-# [unrated] 문자열 돌리기 - 181945 
+# [Level 0] 문자열 돌리기 - 181945 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945) 
 
