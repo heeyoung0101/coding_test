@@ -1,4 +1,4 @@
-# [unrated] 홀짝 구분하기 - 181944 
+# [Level 0] 홀짝 구분하기 - 181944 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181944) 
 
