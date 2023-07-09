@@ -1,4 +1,4 @@
-# [unrated] 특수문자 출력하기 - 181948 
+# [Level 0] 특수문자 출력하기 - 181948 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181948) 
 
