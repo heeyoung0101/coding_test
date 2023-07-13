@@ -1,0 +1,2 @@
+SELECT MAX(DATETIME) AS 시간 -- 가장 최근에 들어온 동물
+  FROM ANIMAL_INS 
