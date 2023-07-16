@@ -1,0 +1,7 @@
+SELECT INGREDIENT_TYPE
+     , SUM(A.TOTAL_ORDER) AS TOTAL_ORDER -- 같은 맛 아이스크림의 상반기 총 판매량
+  FROM FIRST_HALF A, ICECREAM_INFO B
+ WHERE A.FLAVOR = B.FLAVOR
+ GROUP BY B.INGREDIENT_TYPE -- 같은 맛끼리 묶어줌
+ ORDER BY TOTAL_ORDER 
+ /* ORDER BY에 A.TOTAL_ORDER 라고 쓸 때 "ORA-00979: not a GROUP BY expression" 에러남, alias 명대로 써줘야 할 듯 */
