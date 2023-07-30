@@ -11,4 +11,10 @@ class Solution {
         }
         return 1;
     }
+
+    /* 다른 사람 풀이 */
+    public int solution2(String my_string, String is_prefix) {
+        if (my_string.startsWith(is_prefix)) return 1; // startsWith : 해당 문자열로 시작하는지, endsWith : 해당 문자열로 끝나는지
+        return 0;
+    }
 }
