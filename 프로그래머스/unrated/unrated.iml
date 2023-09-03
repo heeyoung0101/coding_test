@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/181840. 정수 찾기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181848. 문자열을 정수로 변환하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181850. 정수 부분" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181852. 뒤에서 5등 위로" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181869. 공백으로 구분하기 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181876. 소문자로 바꾸기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181877. 대문자로 바꾸기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181884. n보다 커질 때까지 더하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181899. 카운트 다운" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181906. 접두사인지 확인하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181907. 문자열의 앞의 n글자" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181910. 문자열의 뒤의 n글자" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181920. 카운트 업" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181926. 수 조작하기 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181928. 이어 붙인 수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181933. flag에 따라 다른 값 반환하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181936. 공배수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181937. n의 배수" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
