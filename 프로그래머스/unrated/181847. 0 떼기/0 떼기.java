@@ -11,4 +11,9 @@ class Solution {
         }
         return answer;
     }
+
+    // 다른 사람 풀이
+    public String solution2(String n_str) {
+        return "" + Integer.parseInt(n_str); // 정수로 변환하면서 앞에 붙은 0은 저절로 사라짐
+    }
 }
